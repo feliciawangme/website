@@ -1,0 +1,30 @@
+body {
+  margin: 0px 0px;
+  font-family: sans-serif;
+  color: #ededef;
+  width: 100vw;
+  height: 100vh;
+  max-width: 100%;
+}
+
+.full-screen {
+  top: 0px;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: scroll;
+  background: url("../images/felicia.jpg") repeat center center fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-text {
+  background-color: rgba(255, 255, 255, .8);
+  text-align: center;
+  margin: 100px;
+  font-family: 'Comfortaa', cursive;
+  font-size: 40px;
+  color: #ff02bb;
+  font-weight: 700;
+}
