@@ -28,3 +28,15 @@ body {
   color: #ff02bb;
   font-weight: 700;
 }
+
+@media (max-width: 500px) {
+  .main-text {
+    background-color: rgba(255, 255, 255, .6);
+    text-align: center;
+    margin: 50px;
+    font-family: 'Comfortaa', cursive;
+    font-size: 22px;
+    color: #ff02bb;
+    font-weight: 700;
+  }
+}
