@@ -20,7 +20,7 @@ body {
 }
 
 .main-text {
-  background-color: rgba(255, 255, 255, .8);
+  background-color: rgba(129, 47, 196, .8);
   text-align: center;
   margin: 100px;
   font-family: 'Comfortaa', cursive;
@@ -31,7 +31,7 @@ body {
 
 @media (max-width: 500px) {
   .main-text {
-    background-color: rgba(255, 255, 255, .6);
+    background-color: rgba(129, 47, 196, .6);
     text-align: center;
     margin: 50px;
     font-family: 'Comfortaa', cursive;
